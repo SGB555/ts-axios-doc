@@ -13,16 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Suremotoo/ts-axios-doc.git"
+    "url": "git+https://github.com/SGB555/ts-axios-doc.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Suremotoo/ts-axios-doc/issues"
+    "url": "https://github.com/SGB555/ts-axios-doc.git/issues"
   },
-  "homepage": "https://github.com/Suremotoo/ts-axios-doc#readme",
   "devDependencies": {
-    "vuepress": "^1.0.0-alpha.44"
+    "vuepress": "^1.7.1"
   },
   "dependencies": {
     "gh-pages": "^2.0.1"
